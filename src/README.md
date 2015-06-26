@@ -4,13 +4,17 @@ src for source code
 
 ## header 2
 
+### header 3
+
+###### header 6
+
 - bullet 1
 - bullet 2
 
 1. item 1
 1. item 2
 
--bullet 1
+- bullet 1
     - bullet 2
         - bullet 3
 
