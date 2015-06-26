@@ -17,3 +17,5 @@ src for source code
 1. item 1
     1. item 2
          1. item 3
+
+markdown has *italic* and **bold** and [links](https://help.github.com/articles/markdown-basics/)
